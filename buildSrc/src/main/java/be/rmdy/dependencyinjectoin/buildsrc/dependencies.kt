@@ -1,7 +1,6 @@
 @file:Suppress("unused", "SpellCheckingInspection")
 
-package com.rvdsoft.vgcollectiontracker.buildsrc
-
+package be.rmdy.dependencyinjectoin.buildsrc
 
 object Deps {
     object Dagger {
