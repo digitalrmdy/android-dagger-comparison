@@ -1,6 +1,6 @@
 @file:Suppress("unused", "SpellCheckingInspection")
 
-package be.rmdy.dependencyinjectoin.buildsrc
+package be.rmdy.dependencyinjection.buildsrc
 
 object Deps {
     object Dagger {

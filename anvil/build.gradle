@@ -1,4 +1,4 @@
-import com.rvdsoft.vgcollectiontracker.buildsrc.Deps
+import be.rmdy.dependencyinjection.buildsrc.Deps
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
